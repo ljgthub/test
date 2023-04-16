@@ -1,0 +1,6 @@
+table = {"hello", "world"}
+
+
+for _,v in pairs(table) do
+  print(v)
+  end
